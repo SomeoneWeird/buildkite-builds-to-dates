@@ -1,0 +1,26 @@
+{
+  "name": "buildkite-builds-to-dates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SomeoneWeird/buildkite-builds-to-dates.git"
+  },
+  "keywords": [
+    "buildkite"
+  ],
+  "author": "Adam Brady <adam@boxxen.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SomeoneWeird/buildkite-builds-to-dates/issues"
+  },
+  "homepage": "https://github.com/SomeoneWeird/buildkite-builds-to-dates#readme",
+  "dependencies": {
+    "buildkite-query": "^1.0.0",
+    "moment": "^2.13.0"
+  }
+}
